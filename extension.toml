@@ -1,6 +1,6 @@
 id = "vscode-great-icons"
 name = "VSCode Great Icons Theme"
-version = "0.1.2"
+version = "0.1.3"
 schema_version = 1
 authors = ["Randa Zraik <randazraik@outlook.com>"]
 description = "VSCode great icons theme for Zed"
