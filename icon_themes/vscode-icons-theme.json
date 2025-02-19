@@ -146,7 +146,7 @@
         "xlt": "excel",
         "xltm": "excel",
         "xltx": "excel",
-        "yaml": "yaml"
+        "yaml": "yaml",
         "yml": "yml",
         "z": "archive",
         "zst": "archive",
@@ -168,7 +168,7 @@
         "env.staging": "dotenv",
         "env.staging.example": "dotenv",
         "env.test": "dotenv",
-        "favicon": "favicon"
+        "favicon": "favicon",
         "favicon.ico": "favicon",
         "uno.config.js": "unocss",
         "uno.config.mjs": "unocss",
