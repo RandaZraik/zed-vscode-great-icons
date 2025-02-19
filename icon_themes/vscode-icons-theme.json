@@ -356,7 +356,7 @@
         "vs_sln": { "path": "./icons/visualstudio.svg" },
         "vs_suo": { "path": "./icons/visualstudio.svg" },
         "vue": { "path": "./icons/vue.svg" },
-        "wasm": { "path": "./icons/wasm.png" },
+        "wasm": { "path": "./icons/wasm.svg" },
         "webpack": { "path": "./icons/webpack.svg" },
         "word": { "path": "./icons/word.svg" },
         "yaml": { "path": "./icons/yaml.svg" },
