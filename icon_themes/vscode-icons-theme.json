@@ -292,7 +292,7 @@
         "webmanifest": "node",
         "nuspec": "nuget",
         "nupkg": "nuget",
-        "nim":"nim",
+        "nim": "nim",
         "nunjucks": "nunjucks",
         "nunjs": "nunjucks",
         "nj": "nunjucks",
@@ -937,7 +937,24 @@
         "env.staging.example": "dotenv",
         "env.test": "dotenv",
         "favicon": "favicon",
-        "favicon.ico": "favicon"
+        "favicon.ico": "favicon",
+        "tsdown.config.ts": "tsdown",
+        "tsdown.config.mts": "tsdown",
+        "tsdown.config.cts": "tsdown",
+        "tsdown.config.js": "tsdown",
+        "tsdown.config.mjs": "tsdown",
+        "tsdown.config.cjs": "tsdown",
+        "tsdown.config.json": "tsdown",
+        "tsdown.config": "tsdown",
+        "rolldown.config.js": "rolldown",
+        "rolldown.config.ts": "rolldown",
+        "rolldown.config.cjs": "rolldown",
+        "rolldown.config.mjs": "rolldown",
+        "rolldown.config.coffee": "rolldown",
+        "rspack.config.js": "rspack",
+        "rspack.config.ts": "rspack",
+        "rspack.config.cjs": "rspack",
+        "rspack.config.mjs": "rspack"
       },
       "file_icons": {
         "actionscript": { "path": "./icons/actionscript.png" },
@@ -1199,7 +1216,10 @@
         "nvidia": { "path": "./icons/nvidia.svg" },
         "cursor": { "path": "./icons/cursor.png" },
         "denizen": { "path": "./icons/denizen.png" },
-        "taskfile": { "path": "./icons/taskfile.svg" }
+        "taskfile": { "path": "./icons/taskfile.svg" },
+        "tsdown": { "path": "./icons/tsdown.svg" },
+        "rolldown": { "path": "./icons/rolldown.svg" },
+        "rspack": { "path": "./icons/rspack.svg" }
       }
     }
   ]
