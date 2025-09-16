@@ -615,7 +615,13 @@
         "jenkinsfile": "jenkinsfile",
         "cl": "nvidia",
         "cue": "cue",
-        "dsc": "denizen"
+        "dsc": "denizen",
+        "lit.js": "lit",
+        "lit.ts": "lit",
+        "lit.cjs": "lit",
+        "lit.jsx": "lit",
+        "prefab": "cocos",
+        "scene": "cocos"
       },
       "file_stems": {
         "androidmanifest.xml": "android",
@@ -954,7 +960,9 @@
         "rspack.config.js": "rspack",
         "rspack.config.ts": "rspack",
         "rspack.config.cjs": "rspack",
-        "rspack.config.mjs": "rspack"
+        "rspack.config.mjs": "rspack",
+        ".prefab": "cocos",
+        ".scene": "cocos"
       },
       "file_icons": {
         "actionscript": { "path": "./icons/actionscript.png" },
@@ -1219,6 +1227,8 @@
         "taskfile": { "path": "./icons/taskfile.svg" },
         "tsdown": { "path": "./icons/tsdown.svg" },
         "rolldown": { "path": "./icons/rolldown.svg" },
+        "lit": { "path": "./icons/lit.svg" },
+        "cocos": { "path": "./icons/cocos.svg" },
         "rspack": { "path": "./icons/rspack.svg" }
       }
     }
